@@ -1,4 +1,4 @@
-# 3D-Encrypted-Box
+# 3D Encryption System
 An encryption system for 3D objects
 
   过去十年，多媒体在日常生活中逐渐普及。视觉数据，如3D对象已经成为传输信息的重要媒介。目前，3D对象已被应用于许多领域，一些珍贵的3D对象资源直接关系到个人隐私或者商业机密的安全，一旦被泄露便会造成难以估计的损失。
